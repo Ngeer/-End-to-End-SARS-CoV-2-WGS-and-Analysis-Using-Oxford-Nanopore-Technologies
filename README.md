@@ -1,2 +1,0 @@
-# -End-to-End-SARS-CoV-2-WGS-and-Analysis-Using-Oxford-Nanopore-Technologies
-Complete, reproducible bioinformatics pipeline for SARS-CoV-2 genomic surveillance using Oxford Nanopore (ONT) long-read sequencing data. The pipeline processes raw ONT reads through quality control, alignment, consensus assembly, variant calling, and phylogenetic analysis, generating publication-quality figures and comprehensive genomic reports.
